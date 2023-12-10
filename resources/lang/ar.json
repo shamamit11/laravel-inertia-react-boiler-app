@@ -1,0 +1,18 @@
+{
+    "common": {
+        "sign_in_text": "تسجيل الدخول",
+        "signin_subtitle_text": "قم بالوصول إلى لوحة Aero RSP باستخدام البريد الإلكتروني وكلمة المرور.",
+        "login_btn_text": "تسجيل الدخول",
+        "processing_text": "يعالج",
+        "forgot_password_text": "هل نسيت كلمة السر؟",
+        "or_text": "أو",
+        "create_new_account": "انشاء حساب جديد",
+        "email_error_message_1": "الرجاء إدخال البريد الإلكتروني الخاص بك!",
+        "email_error_message_2": "بريد إلكتروني خاطئ",
+        "email_error_message_3": "يجب ألا يتجاوز البريد الإلكتروني 50 حرفًا",
+        "email_placeholder": "عنوان البريد الإلكتروني",
+        "password_error_message_1": "الرجاء إدخال كلمة المرور الخاصة بك!",
+        "password_error_message_2": "يجب ألا تتجاوز كلمة المرور 50 حرفًا.",
+        "password_placeholder": "كلمة المرور"
+    }
+}

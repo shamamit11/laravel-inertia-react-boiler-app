@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "axios": "^1.6.1",
+        "laravel-vite-plugin": "^0.8.0",
+        "vite": "^4.0.0"
+    },
+    "dependencies": {
+        "@ant-design/icons": "^5.2.6",
+        "@inertiajs/react": "^1.0.14",
+        "@vitejs/plugin-react": "^4.2.1",
+        "antd": "^5.12.1",
+        "loadsh": "^0.0.4",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-highlight-words": "^0.20.0",
+        "sass": "^1.69.5"
+    }
+}
